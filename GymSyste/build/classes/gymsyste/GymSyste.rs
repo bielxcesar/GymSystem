@@ -1,0 +1,5 @@
+gymsyste.RemoverUsuarioCommand
+gymsyste.CadastrarUsuarioCommand
+gymsyste.GymSyste
+gymsyste.ListarUsuariosCommand
+gymsyste.Command
